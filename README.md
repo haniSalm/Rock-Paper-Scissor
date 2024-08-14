@@ -1,1 +1,1 @@
-# Rock-Paper-Scissor
+This project is a Rock-Paper-Scissors game where the player competes against the computer, implemented using HTML, CSS, and JavaScript. The game tracks and displays the player's score based on the outcomes of each round.
